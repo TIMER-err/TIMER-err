@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TIMER-err
-- 👀 I’m interested in java, c++.
+- 👀 I’m interested in Java, C++.
 - 🌱 I’m currently learning java
 
 <hr>
@@ -35,11 +35,17 @@
 
 <br />
 
+<hr>
 
+<img align="left"
+     src="https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=ULTRA-Client&cache_seconds=86400&theme=moltack"
+/>
 
 <img align="right"
-     src="https://github-readme-stats.vercel.app/api?username=TIMER-err&show_icons=true&theme=radical"
+     src="https://github-readme-stats.vercel.app/api?username=TIMER-err&show_icons=true&theme=moltack"
 />
+
+<br />
 
 <!---
 TIMER-err/TIMER-err is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

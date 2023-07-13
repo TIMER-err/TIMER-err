@@ -37,13 +37,9 @@
 
 <hr>
 
-<img align="top"
-     src="https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=ULTRA-Client&cache_seconds=86400&theme=moltack"
-/>
+[![ULTRA-Client](https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=ULTRA-Client&cache_seconds=86400&theme=moltack)](https://github.com/TIMER-err/ULTRA-Client)
 
-<img align="bottom"
-     src="https://github-readme-stats.vercel.app/api?username=TIMER-err&show_icons=true&theme=moltack"
-/>
+[![stats](https://github-readme-stats.vercel.app/api?username=TIMER-err&show_icons=true&theme=moltack)](https://github.com/TIMER-err)
 
 <br />
 

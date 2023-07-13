@@ -37,11 +37,11 @@
 
 <hr>
 
-<img align="left"
+<img align="top"
      src="https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=ULTRA-Client&cache_seconds=86400&theme=moltack"
 />
 
-<img align="right"
+<img align="bottom"
      src="https://github-readme-stats.vercel.app/api?username=TIMER-err&show_icons=true&theme=moltack"
 />
 

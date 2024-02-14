@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TIMER-err
 - 👀 I’m interested in Java, C++.
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Rust🦀
 
 <hr>
 

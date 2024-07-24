@@ -37,7 +37,9 @@
 
 <hr>
 
-[![ULTRA-Client](https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=YolBi_Inject&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YolBi_Inject)
+[![YolBi_Inject](https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=YolBi_Inject&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YolBi_Inject)
+
+[![YMixin](https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YMixin)
 
 [![ULTRA-Client](https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=ULTRA-Client&cache_seconds=86400&theme=moltack)](https://github.com/TIMER-err/ULTRA-Client)
 

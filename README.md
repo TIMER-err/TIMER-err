@@ -2,6 +2,12 @@
 
 <hr>
 
+<a href="https://github.com/TIMER-err">
+     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=radical"/>
+     <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=radical"/>
+     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=radical"/>
+</a>
+
 ### Preferred Languages
 
 <a href="https://www.java.com/en/download/help/whatis_java.html">

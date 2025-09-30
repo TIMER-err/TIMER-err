@@ -1,10 +1,17 @@
 <hr>
 
-<a href="https://github.com/TIMER-err">
-     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=radical"/>
-     <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=radical"/>
-     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=radical"/>
-</a>
+<div align="center">
+     <a href="https://github.com/TIMER-err">
+          <img src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=radical" alt="GitHub Profile Trophies"/>
+     </a>
+</div>
+
+<div align="center">
+     <a href="https://github.com/TIMER-err">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=radical&layout=compact" alt="Top Languages"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+     </a>
+</div>
 
 ### Preferred Languages
 
@@ -15,14 +22,14 @@
      />
 </a>
 
-<a href="/">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
      <img
           align="left" alt="C++" width="30" height="30"
-          src="https://commons.m.wikimedia.org/wiki/File:C%2B%2B_logo.png"
+          src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
      />
 </a>
 
-<br />
+<br clear="left"/>
 
 <hr>
 
@@ -35,13 +42,11 @@
      />
 </a>
 
-<br />
+<br clear="left"/>
 
 <hr>
 
 [![YMixin](https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YMixin)
-
-[![stats](https://github-readme-stats.vercel.app/api?username=TIMER-err&show_icons=true&theme=moltack)](https://github.com/TIMER-err)
 
 <br />
 

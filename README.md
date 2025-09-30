@@ -1,73 +1,80 @@
 <hr>
 
 <div align="center">
+     <!-- GitHub Profile Trophies - 居中显示，现代化主题 -->
      <a href="https://github.com/TIMER-err">
-          <img src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=radical" alt="GitHub Profile Trophies"/>
+          <img src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=onedark" alt="GitHub Profile Trophies"/>
      </a>
 </div>
 
+<br/>
+
 <div align="center">
+     <!-- GitHub Stats - 居中显示，简洁布局 -->
      <a href="https://github.com/TIMER-err">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=radical&layout=compact" alt="Top Languages"/>
-          <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+     </a>
+     <!-- Top Languages - 紧凑布局，与 stats 保持一致主题 -->
+     <a href="https://github.com/TIMER-err">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
      </a>
 </div>
+
+<br/>
+
+<hr>
 
 ### Preferred Languages
 
-<a href="https://www.java.com/en/download/help/whatis_java.html">
-     <img
-         align="left" alt="Java" width="30px" height="30" 
-         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"
-     />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-     <img
-          align="left" alt="C++" width="30" height="30"
-          src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-     />
-</a>
-
-<br clear="left"/>
-
-<hr>
-
-### Preferred IDE
-
-<a href="https://www.jetbrains.com/idea/">
-     <img
-         align="left" alt="IntelliJ IDEA" height="30"
-         src="https://img.icons8.com/color/48/000000/intellij-idea.png"
-     />
-</a>
-
-<a href="https://code.visualstudio.com/">
-     <img
-         align="left" alt="VS Code" height="30"
-         src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
-     />
-</a>
-
-<a href="https://www.jetbrains.com/clion/">
-     <img
-         align="left" alt="CLion" height="30"
-         src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jetbrains_clion_logo_icon_169931.png"
-     />
-</a>
-
-<a href="https://www.jetbrains.com/rustrover/">
-     <img
-         align="left" alt="RustRover" height="30"
-         src="https://img.icons8.com/color/48/000000/rust.png" 
-     />
-</a>
+<!-- 使用统一的黑白或扁平化图标风格，看起来更现代和简洁 -->
+<p align="left">
+     <a href="https://www.java.com/en/download/help/whatis_java.html">
+          <img alt="Java" width="35px" height="35" 
+               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          />
+     </a>
+     <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+          <img alt="C++" width="35px" height="35"
+               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+          />
+     </a>
+</p>
 
 <br clear="left"/>
 
 <hr>
 
-[![YMixin](https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YMixin)
+### Preferred IDEs
+
+<!-- 使用统一的黑白或扁平化图标风格 -->
+<p align="left">
+     <a href="https://www.jetbrains.com/idea/">
+          <img alt="IntelliJ IDEA" height="35"
+               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+          />
+     </a>
+     <a href="https://code.visualstudio.com/">
+          <img alt="VS Code" height="35"
+               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+          />
+     </a>
+     <a href="https://www.jetbrains.com/rustrover/">
+          <img alt="RustRover" height="35"
+               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" 
+          />
+     </a>
+</p>
+
+<br clear="left"/>
+
+<hr>
+
+<br/>
+
+<!-- Pin 项目，保持简洁 -->
+<div align="center">
+     [![YMixin](https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YMixin)
+</div>
 
 <br />
 

@@ -15,10 +15,10 @@
      />
 </a>
 
-<a href="https://kotlinlang.org/">
+<a href="/">
      <img
-          align="left" alt="Kotlin" width="30" height="30"
-          src="https://commons.m.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg"
+          align="left" alt="C++" width="30" height="30"
+          src="https://commons.m.wikimedia.org/wiki/File:C%2B%2B_logo.png"
      />
 </a>
 

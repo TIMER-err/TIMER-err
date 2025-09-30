@@ -18,7 +18,7 @@
 <a href="https://kotlinlang.org/">
      <img
           align="left" alt="Kotlin" width="30" height="30"
-          src="https://commons.m.wikimedia.org/wiki/File:Kotlin_Full_Color_Logo_Mark_RGB.png"
+          src="https://commons.m.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg"
      />
 </a>
 

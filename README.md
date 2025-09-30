@@ -52,14 +52,14 @@
 <a href="https://www.jetbrains.com/clion/">
      <img
          align="left" alt="CLion" height="30"
-         src="https://img.icons8.com/color/48/000000/clion.png"
+         src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jetbrains_clion_logo_icon_169931.png"
      />
 </a>
 
 <a href="https://www.jetbrains.com/rustrover/">
      <img
          align="left" alt="RustRover" height="30"
-         src="https://img.icons8.com/color/48/000000/rust.png" <!-- Using a general Rust icon as a specific RustRover icon is less common -->
+         src="https://img.icons8.com/color/48/000000/rust.png" 
      />
 </a>
 

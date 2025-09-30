@@ -1,7 +1,6 @@
 <hr>
 
 <div align="center">
-     <!-- GitHub Profile Trophies - 居中显示，现代化主题 -->
      <a href="https://github.com/TIMER-err">
           <img src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=onedark" alt="GitHub Profile Trophies"/>
      </a>
@@ -10,11 +9,9 @@
 <br/>
 
 <div align="center">
-     <!-- GitHub Stats - 居中显示，简洁布局 -->
      <a href="https://github.com/TIMER-err">
           <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
      </a>
-     <!-- Top Languages - 紧凑布局，与 stats 保持一致主题 -->
      <a href="https://github.com/TIMER-err">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
      </a>
@@ -26,7 +23,6 @@
 
 ### Preferred Languages
 
-<!-- 使用统一的黑白或扁平化图标风格，看起来更现代和简洁 -->
 <p align="left">
      <a href="https://www.java.com/en/download/help/whatis_java.html">
           <img alt="Java" width="35px" height="35" 
@@ -46,7 +42,6 @@
 
 ### Preferred IDEs
 
-<!-- 使用统一的黑白或扁平化图标风格 -->
 <p align="left">
      <a href="https://www.jetbrains.com/idea/">
           <img alt="IntelliJ IDEA" height="35"
@@ -60,7 +55,7 @@
      </a>
      <a href="https://www.jetbrains.com/rustrover/">
           <img alt="RustRover" height="35"
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" 
+               src="https://img.icons8.com/color/48/000000/rust.png"
           />
      </a>
 </p>
@@ -71,10 +66,9 @@
 
 <br/>
 
-<!-- Pin 项目，保持简洁 -->
-<div align="center">
+<p align="center">
      [![YMixin](https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&cache_seconds=86400&theme=moltack)](https://github.com/yapeteam/YMixin)
-</div>
+</p>
 
 <br />
 

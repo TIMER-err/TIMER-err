@@ -37,8 +37,29 @@
 
 <a href="https://www.jetbrains.com/idea/">
      <img
-         align="left" height="30"
+         align="left" alt="IntelliJ IDEA" height="30"
          src="https://img.icons8.com/color/48/000000/intellij-idea.png"
+     />
+</a>
+
+<a href="https://code.visualstudio.com/">
+     <img
+         align="left" alt="VS Code" height="30"
+         src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+     />
+</a>
+
+<a href="https://www.jetbrains.com/clion/">
+     <img
+         align="left" alt="CLion" height="30"
+         src="https://img.icons8.com/color/48/000000/clion.png"
+     />
+</a>
+
+<a href="https://www.jetbrains.com/rustrover/">
+     <img
+         align="left" alt="RustRover" height="30"
+         src="https://img.icons8.com/color/48/000000/rust.png" <!-- Using a general Rust icon as a specific RustRover icon is less common -->
      />
 </a>
 

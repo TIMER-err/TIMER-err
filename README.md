@@ -1,86 +1,60 @@
-<hr>
-
 <div align="center">
-     <!-- GitHub Profile Trophies - 居中显示，现代化主题 -->
-     <!--<a href="https://github.com/TIMER-err">
-          <img src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=onedark" alt="GitHub Profile Trophies"/>
-     </a>-->
+  <!-- GitHub Stats - Centered, modern theme -->
+  <a href="https://github.com/TIMER-err">
+    <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </a>
 </div>
 
-<br/>
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <strong>Programming Languages:</strong><br>
+  <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>Technologies & Tools:</strong><br>
+  <a href="#"><img alt="JVM" src="https://img.shields.io/badge/JVM-FFFFFF?style=for-the-badge&logo=java&logoColor=black"></a>
+  <a href="#"><img alt="JNI" src="https://img.shields.io/badge/JNI-Java%20Native%20Interface-blue?style=for-the-badge&logo=java"></a>
+  <a href="#"><img alt="Bytecode" src="https://img.shields.io/badge/Bytecode-Manipulation-orange?style=for-the-badge"></a>
+  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <strong>Experience:</strong><br>
+  <a href="#"><img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge"></a>
+  <a href="#"><img alt="JVM Hacking" src="https://img.shields.io/badge/JVM_Hacking-D00000?style=for-the-badge"></a>
+  <a href="#"><img alt="Low-level Development" src="https://img.shields.io/badge/Low--Level_Dev-4A4A4A?style=for-the-badge"></a>
+  <a href="#"><img alt="Game Modding" src="https://img.shields.io/badge/Game_Modding-1E90FF?style=for-the-badge"></a>
+</p>
+
+---
+
+### Some Projects
 
 <div align="center">
-     <!-- GitHub Stats 和 Top Languages - 居中显示，简洁布局 -->
-     <a href="https://github.com/TIMER-err">
-          <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-     </a>
-     <a href="https://github.com/TIMER-err">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
-     </a>
+  <a href="https://github.com/yapeteam/YMixin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&theme=synthwave&hide_border=true" alt="YMixin"/>
+  </a>
+  <br/>
+  <em>A runtime bytecode instrumentation framework that leverages Mixin-style syntax to perform live, hot-swappable code modifications on the fly.</em>
+  <a href="https://github.com/TIMER-err/jvm-runtime-noverfiy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=jvm-runtime-noverfiy&theme=synthwave&hide_border=true" alt="jvm-runtime-noverfiy"/>
+  </a>
+  <br/>
+  <em>A tool to disable JVM bytecode verification at runtime.</em>
+
 </div>
 
-<br/>
+---
 
-<hr>
+### GitHub Stats
 
-### Preferred Languages
-
-<!-- 使用统一的黑白或扁平化图标风格，看起来更现代和简洁 -->
-<p align="left">
-     <a href="https://www.java.com/en/download/help/whatis_java.html">
-          <img alt="Java" width="35px" height="35" 
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-          />
-     </a>
-     <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-          <img alt="C++" width="35px" height="35"
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-          />
-     </a>
-</p>
-
-<br clear="left"/>
-
-<hr>
-
-### Preferred IDEs
-
-<!-- 使用统一的黑白或扁平化图标风格 -->
-<p align="left">
-     <a href="https://www.jetbrains.com/idea/">
-          <img alt="IntelliJ IDEA" height="35"
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-          />
-     </a>
-     <a href="https://code.visualstudio.com/">
-          <img alt="VS Code" height="35"
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-          />
-     </a>
-     <!-- RustRover 的图标，使用 Devicons 的 Rust 语言图标，这是最清晰且不易误解的选择 -->
-     <a href="https://www.jetbrains.com/rustrover/">
-          <img alt="RustRover" height="35"
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" 
-          />
-     </a>
-</p>
-
-<br clear="left"/>
-
-<hr>
-
-<br/>
-
-<!-- Pin 项目，现在使用 img 标签直接嵌入，并通过父级 p 标签居中 -->
 <p align="center">
-     <a href="https://github.com/yapeteam/YMixin">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&cache_seconds=86400&theme=moltack" alt="YMixin Pinned Repository"/>
-     </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
-
-<br />
-
-<!---
-TIMER-err/TIMER-err is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

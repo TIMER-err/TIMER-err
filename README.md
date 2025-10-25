@@ -2,9 +2,9 @@
 
 <div align="center">
      <!-- GitHub Profile Trophies - 居中显示，现代化主题 -->
-     <a href="https://github.com/TIMER-err">
+     <!--<a href="https://github.com/TIMER-err">
           <img src="https://github-profile-trophy.vercel.app/?username=TIMER-err&theme=onedark" alt="GitHub Profile Trophies"/>
-     </a>
+     </a>-->
 </div>
 
 <br/>

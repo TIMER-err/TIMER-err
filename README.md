@@ -1,11 +1,10 @@
-<div align="center">
-  <!-- GitHub Stats - Centered, modern theme -->
-  <a href="https://github.com/TIMER-err">
-    <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-</div>
+## TIMER_err
 
----
+<p align="left">
+  <strong>Preferred OS:</strong><br>
+    <a href="#"><img alt="Arch" src="https://img.shields.io/badge/-ArchLinux-red?style=for-the-badge&logo=archlinux&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows10-red?style=for-the-badge&logo=materialdesignicons&logoColor=white"></a>
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -37,24 +36,27 @@
 
 ### Some Projects
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/yapeteam/YMixin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&theme=synthwave&hide_border=true" alt="YMixin"/>
   </a>
   <br/>
-  <em>A runtime bytecode instrumentation framework that leverages Mixin-style syntax to perform live, hot-swappable code modifications on the fly.</em>
   <a href="https://github.com/TIMER-err/jvm-runtime-noverfiy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=jvm-runtime-noverfiy&theme=synthwave&hide_border=true" alt="jvm-runtime-noverfiy"/>
   </a>
-  <br/>
-  <em>A tool to disable JVM bytecode verification at runtime.</em>
-
 </div>
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
+<div align="left">
+  <!-- GitHub Stats - Centered, modern theme -->
+  <a href="https://github.com/TIMER-err">
+    <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+</div>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>

@@ -38,11 +38,11 @@
 
 <div align="left">
   <a href="https://github.com/yapeteam/YMixin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yapeteam&repo=YMixin&theme=synthwave&hide_border=true" alt="YMixin"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yapeteam&repo=YMixin&theme=synthwave&hide_border=true" alt="YMixin"/>
   </a>
   <br/>
   <a href="https://github.com/TIMER-err/jvm-runtime-noverfiy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIMER-err&repo=jvm-runtime-noverfiy&theme=synthwave&hide_border=true" alt="jvm-runtime-noverfiy"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TIMER-err&repo=jvm-runtime-noverfiy&theme=synthwave&hide_border=true" alt="jvm-runtime-noverfiy"/>
   </a>
 </div>
 
@@ -51,12 +51,11 @@
 ### GitHub Stats
 
 <div align="left">
-  <!-- GitHub Stats - Centered, modern theme -->
   <a href="https://github.com/TIMER-err">
-    <img src="https://github-readme-stats.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TIMER-err&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>

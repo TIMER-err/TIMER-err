@@ -59,3 +59,9 @@
 <p align="left">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
+
+# Contact
+
+<a href="https://discord.com/users/1065200869278228581">
+  <img src="https://img.shields.io/badge/Discord-%40TIMER__err-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
+</a>

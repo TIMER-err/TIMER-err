@@ -62,6 +62,21 @@
 
 # Contact
 
-<a href="https://discord.com/users/1065200869278228581">
-  <img src="https://img.shields.io/badge/Discord-%40TIMER__err-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
-</a>
+<div align="center">
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/1065200869278228581">
+    <img src="https://img.shields.io/badge/Discord-%40TIMER__err-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/TIMER_err">
+    <img src="https://img.shields.io/badge/X-%40TIMER__err-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@TIMER-err">
+    <img src="https://img.shields.io/badge/YouTube-%40TIMER--err-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+</div>

@@ -34,20 +34,6 @@
 
 ---
 
-### Some Projects
-
-<div align="left">
-  <a href="https://github.com/yapeteam/YMixin">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yapeteam&repo=YMixin&theme=synthwave&hide_border=true" alt="YMixin"/>
-  </a>
-  <br/>
-  <a href="https://github.com/TIMER-err/jvm-runtime-noverfiy">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TIMER-err&repo=jvm-runtime-noverfiy&theme=synthwave&hide_border=true" alt="jvm-runtime-noverfiy"/>
-  </a>
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="left">

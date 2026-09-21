@@ -46,6 +46,16 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TIMER-err&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
+---
+
+### 🎮 Phigros
+
+<p align="left">
+  <a href="https://github.com/TIMER-err/phigros-b30-card">
+    <img width="620" src="https://raw.githubusercontent.com/TIMER-err/phigros-b30-card/output/b30.jpg" alt="Phigros B30"/>
+  </a>
+</p>
+
 # Contact
 
 <!-- Discord -->

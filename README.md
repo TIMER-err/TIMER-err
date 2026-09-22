@@ -52,7 +52,7 @@
 
 <p align="left">
   <a href="https://github.com/TIMER-err/phigros-b30-card">
-    <img width="620" src="https://raw.githubusercontent.com/TIMER-err/phigros-b30-card/output/update.jpg" alt="Phigros 成绩变动"/>
+    <img width="620" src="https://raw.githubusercontent.com/TIMER-err/phigros-b30-card/output/update.jpg" alt="Phigros"/>
   </a>
 </p>
 
